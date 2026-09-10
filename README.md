@@ -6,7 +6,7 @@ Collect all your software engineering project files, resources, etc here.
 
 ## `AI_LOG.md`
 
-Every time you update your project, please make a note of what you did in the AI_LOG.md file, according to the following template.
+Every time you update your project, please make a note of what you did in the `AI_LOG.md` file, according to the following template.
 
 ```markdown
 ## [Milestone name] — [Date]
